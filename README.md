@@ -19,6 +19,7 @@ Each section is written by a different team member.
 **Visual Studio Code** (VS Code) is a free code editor made by Microsoft.
 It is one of the most popular editors for programming.
 
+https://image.png
 ### Why Students Should Use It
 - It works on Windows, Mac, and Linux.
 - It supports almost every programming language.
