@@ -1,1 +1,22 @@
-# useful-tools-for-students
+# Useful Tools for Students
+
+A collaborative guide by [list all team member names].
+
+## Table of Contents
+- [Introduction](#introduction)
+- [VS Code](#vs-code)
+- [GitHub](#github)
+- [React](#react)
+
+## Introduction
+This guide covers tools that every student should know about.
+Each section is written by a different team member.
+
+## VS Code
+<!-- [Team Member 1 Name] will write this section -->
+
+## GitHb
+<!-- [Team Member 2 Name] will write this section -->
+
+## React
+<!-- [Team Member 3 Name] will write this section -->
